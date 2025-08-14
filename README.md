@@ -80,7 +80,7 @@ Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O ar
 3.  Coloque o seu arquivo `tweets.csv` no diretório.
 4.  Execute o script Python:
     ```bash
-    python seu_script.py
+    python daily_word_game.py
     ```
     Ou execute as células em um ambiente como Jupyter Notebook ou Google Colab.
 
