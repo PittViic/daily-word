@@ -71,11 +71,11 @@ Este script espera um arquivo CSV chamado `tweets.csv` no mesmo diretório. O ar
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/PittViic/daily-word.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd daily-word
     ```
 3.  Coloque o seu arquivo `tweets.csv` no diretório.
 4.  Execute o script Python:
